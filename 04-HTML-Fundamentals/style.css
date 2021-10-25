@@ -1,0 +1,45 @@
+body {
+  border: 3px solid black;
+  font-family: sans-serif;
+}
+header {
+  font-family: "sans-serif";
+}
+h3 {
+  background-color: #e2dfde;
+  text-align: center;
+  text-transform: uppercase;
+}
+header strong {
+  font-size: larger;
+}
+#free {
+  color: #444;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+.second {
+  font-weight: 600;
+}
+a:link {
+  color: black;
+}
+a:link:hover {
+  text-decoration: none;
+}
+h4 {
+  text-transform: uppercase;
+}
+.square {
+  list-style-type: square;
+}
+button {
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #000;
+  border: none;
+}
+button:hover {
+  background-color: #fff;
+  color: #000;
+}
